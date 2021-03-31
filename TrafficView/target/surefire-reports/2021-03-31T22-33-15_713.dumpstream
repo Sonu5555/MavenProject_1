@@ -1,0 +1,4 @@
+# Created at 2021-03-31T22:33:17.458
+Boot Manifest-JAR contains absolute paths in classpath 'D:\CMS COMPUTERS\SVN Automation\TraffView_UCON\AutomationScripts\Projects\TrafficView\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

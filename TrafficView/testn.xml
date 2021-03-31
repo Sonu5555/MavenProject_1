@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+<listeners>
+	<listener class-name="Utilites.Listeners"></listener>
+</listeners>
+  <test name="Test" >
+    <classes>
+      <class name="traffic.tests.TC_01"/>    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
